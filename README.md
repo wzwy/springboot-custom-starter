@@ -121,4 +121,22 @@ com.wz.springboot.HelloAutoConfiguration
 
 </project>
 
-
+{
+    "opr":"listusr",
+    "data":{
+        "start":0,
+        "limit":200,
+        "filter":{
+            "filterType":"all",
+            "id":100,
+            "gid":-1,
+            "type":888
+        },
+        "search":"",
+        "sort":"onlineTime",
+        "direction":"ASC",
+        "searchValue":"",
+        "is_deposit":false,
+        "is_central_area":false
+    }
+}
